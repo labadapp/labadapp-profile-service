@@ -1,0 +1,10 @@
+{
+    "dbConfig": {
+        "host": "localhost",
+        "port": 3306,
+        "username": "root",
+        "database": "labadappdb",
+        "synchronize": true,
+        "logging": false
+    }
+}
